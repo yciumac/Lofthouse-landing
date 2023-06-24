@@ -1,0 +1,1 @@
+# Landing page for residential complex LoftHouse. Figma layout, CSS, SCSS preprocessor, mixins and variables. Media queries and adaptive layout. CSS Grid and Flexbox. JS scripts for phone number mask, script for youtube lightbox video, script for yandex maps.
